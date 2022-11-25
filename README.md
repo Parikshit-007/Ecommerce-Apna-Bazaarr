@@ -1,5 +1,5 @@
-Project Title- Apna Bazaar
-Apna Bazaar is a simple ecommerccee website project made using django framework.
+Project Title- Apna Bazaarr
+Apna Bazaarr is a simple ecommerccee website project made using django framework.
 
 Prerequisites
 What things you need to install the software and how to install them
