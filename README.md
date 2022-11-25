@@ -11,7 +11,7 @@ How to run this project?
 1) pip install django in your terminal or Command Prompt
 2) python manage.py runserver
 
-How to add or delete products?
+How to add or delete products and manage orders?
 1) Create superuser by this command - python manage.py createsuperuser
 2) Go to admin page and login with the id which you have created.
-3) go to products.
+3) go to products,orders.
