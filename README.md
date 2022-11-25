@@ -1,5 +1,6 @@
 Project Title- Apna Bazaar
 Apna Bazaar is a simple ecommerccee website project made using django framework.
+
 Prerequisites
 What things you need to install the software and how to install them
 
@@ -15,3 +16,6 @@ How to add or delete products and manage orders?
 1) Create superuser by this command - python manage.py createsuperuser
 2) Go to admin page and login with the id which you have created.
 3) go to products,orders.
+
+
+:)
